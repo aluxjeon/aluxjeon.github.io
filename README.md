@@ -6,8 +6,8 @@ Hoi! My name is Alex Jeon. I'm currently attending UBC as a first year science s
 
 
 ## Courses
-| 2022 ~ 2023 Sem 1 (W) | 2023 ~ 2023 Sem 2 (W) | 2023 ~ 2023 Sem 1 (S) | 2023 S Sem 2 (S)|
 
+| 2022 ~ 2023 Sem 1 (W) | 2023 ~ 2023 Sem 2 (W) | 2023 ~ 2023 Sem 1 (S) | 2023 S Sem 2 (S)|
 | ----------- | ----------- | ----------- | ----------- |
 | CPSC 110 | CPSC 210 | PHIL 220 | MATH 302 |
 | CPSC 121 | MATH 200 | | |
