@@ -2,4 +2,14 @@
 
 ## About Me
 
-## THing
+## Education
+
+## Courses?
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+## Projects
+
+## Links to Socials
