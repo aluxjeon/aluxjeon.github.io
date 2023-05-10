@@ -26,7 +26,7 @@ Hoi! My name is Alex Jeon. I'm currently attending UBC as a first year science s
 
 ### PHYS 100: Introductory Physics
 
-### CPSC 210: Software Construction
+### CPSC 210: Software Constructionw
 
 ### MATH 200: Calculus III
 There isn't much to say about MATH 200. I took a virtual lecture section so the lectures were recorded on zoom. The midterm and finals were reasonable covering much of the topics we learned. A good way to study for them is to go hit the textbook questions. One comment I have to make is I wish that past midterms were given unlike the past final exams (which can be found [here](https://secure.math.ubc.ca/Ugrad/pastExams/)).
