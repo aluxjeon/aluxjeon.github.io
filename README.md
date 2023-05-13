@@ -15,18 +15,20 @@ Hoi! My name is Alex Jeon. I'm currently attending UBC as a first year science s
 | ENGL 110 | PHYS 131 | | |
 | PHYS 100 | EOSC 111 | | |
 
-## My *Biased* Takes on Courses if you happen to care 
+## My *Biased* Takes on Courses 
 ### CPSC 110: Computation, Programs, and Programming
 
 ### CPSC 121: Models of Computation
+CPSC 121 is a course that covers a good chunk of discrete mathematics and logic circuits. There are partner labs where you are introduced to logic circuits and do tasks that complements the lectures. The labs also have an extra task if you and your partner happen to finish early. I'd personally recommend at least looking at the tasks at a later time and to do them (especially the earlier ones) because they aren't as hard as they look. However, they aren't anything to be too stressed about. There are several assignments that cover a good chunk of content and you usually have around two weeks to do them. You can do them with a partner. Something to state regarding the grading of these assignments is that the TAs only grade a certain selection of questions instead of all of them. Interpret that how you want. As for the tutorial, it's very informal session where you do practice problems with a TA. I found it to be a nice opportunitity to ask questions.
 
 ### MATH 221: Matrix Algebra
 
 ### ENGL 110: Approaches to Literature and Culture
 
 ### PHYS 100: Introductory Physics
+I took PHYS 100 since I didn't take PHYS12 in high school
 
-### CPSC 210: Software Constructionw
+### CPSC 210: Software Construction
 
 ### MATH 200: Calculus III
 There isn't much to say about MATH 200. I took a virtual lecture section so the lectures were recorded on zoom. The midterm and finals were reasonable covering much of the topics we learned. A good way to study for them is to go hit the textbook questions. One comment I have to make is I wish that past midterms were given unlike the past final exams (which can be found [here](https://secure.math.ubc.ca/Ugrad/pastExams/)).
